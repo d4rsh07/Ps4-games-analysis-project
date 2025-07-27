@@ -2,7 +2,7 @@
 # 🎮 PS4 Game Analysis Tool (Python Project)
 
 This Python project is an interactive data analysis tool built to explore and visualize a dataset of **famous PS4 games**. Using a CSV file containing game titles, prices, lifetime sales, and more, the program allows users to view statistics, manipulate data, search records, and generate visualizations.
-**PS- i made this as a final term project for my class 12 Informatics Practices class**
+**PS- I made this as a final term project for my class 12 Informatics Practices class**
 
 ---
 
